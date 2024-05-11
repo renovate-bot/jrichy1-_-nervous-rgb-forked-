@@ -14,3 +14,9 @@ name = "ruff"
 
 [[transformers]]
 name = "yapf"
+
+[[transformers]]
+name = "autopep8"
+
+[[transformers]]
+name = "isort"
