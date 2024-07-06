@@ -5,7 +5,7 @@ settings:
   excludeLinksFromLockfile: false
 
 overrides:
-  jackspeak: 3.4.0
+  jackspeak: 3.4.1
 
 dependencies:
   react:
@@ -4964,7 +4964,7 @@ packages:
     hasBin: true
     dependencies:
       foreground-child: 3.1.1
-      jackspeak: 3.4.0
+      jackspeak: 3.4.1
       minimatch: 9.0.4
       minipass: 7.1.2
       path-scurry: 1.11.1
@@ -5435,9 +5435,9 @@ packages:
     engines: {node: '>=0.10.0'}
     dev: true
 
-  /jackspeak@3.4.0:
-    resolution: {integrity: sha512-JVYhQnN59LVPFCEcVa2C3CrEKYacvjRfqIQl+h8oi91aLYQVWRYbxjPcv1bUiUy/kLmQaANrYfNMCO3kuEDHfw==}
-    engines: {node: '>=14'}
+  /jackspeak@3.4.1:
+    resolution: {integrity: sha512-U23pQPDnmYybVkYjObcuYMk43VRlMLLqLI+RdZy8s8WV8WsxO9SnqSroKaluuvcNOdCAlauKszDwd+umbot5Mg==}
+    engines: {node: '>=18'}
     dependencies:
       '@isaacs/cliui': 8.0.2
     optionalDependencies:
