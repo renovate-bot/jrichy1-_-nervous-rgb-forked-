@@ -43,6 +43,6 @@
     "vite": "^5.0.0"
   },
   "resolutions": {
-    "jackspeak": "3.4.1"
+    "jackspeak": "3.4.2"
   }
 }
